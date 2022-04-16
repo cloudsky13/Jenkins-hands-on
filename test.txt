@@ -1,1 +1,1 @@
-testing maven build
+testing maven build with gitSCM polling 
